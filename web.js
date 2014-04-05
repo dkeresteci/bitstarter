@@ -1,7 +1,7 @@
 var fs = require('fs');
 var express = require('express');
 var app = express();
-var html_file = 'index.html';
+var html_file = 'bitstarter.html';
 
 app.use(express.logger());
 
