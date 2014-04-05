@@ -1,2 +1,6 @@
 ["h1",
- ".navigation"]
+ ".navigation",
+".logo",
+".blank",
+".faq",
+".footer"]
