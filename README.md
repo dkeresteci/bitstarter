@@ -17,6 +17,10 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
 
+## Create key pair
+ssh-keygen -t rsa
+## hit enter twice
+heroku keys:add
 ```
 heroku create
 git push heroku master
